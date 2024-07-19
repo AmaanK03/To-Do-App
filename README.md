@@ -11,14 +11,11 @@ This project combines task management with real-time weather updates and daily m
 - **Task Management:** Users can add and delete tasks easily.
 - **Weather Updates:** Displays the current weather using a weather API.
 - **Motivational Quotes:** Shows a new motivational quote each day using a quote API.
-- **Interactive UI:** User-friendly interface with visual feedback for interactions.
 
 ## What I Learned 🧠
 
 - **API Integration:** Fetching data from external APIs and displaying it dynamically.
-- **DOM Manipulation:** Updating HTML elements based on API data and user interactions.
 - **JavaScript Functions:** Implementing functions to handle API requests, form validation, and event listeners.
-- **CSS Styling:** Styling the application to create a visually appealing and user-friendly interface.
 
 ## Future Enhancements
 
@@ -26,6 +23,9 @@ This project combines task management with real-time weather updates and daily m
 - **Custom Quotes:** Allow users to add their own motivational quotes.
 - **Extended Weather Data:** Provide more detailed weather information, such as forecasts and alerts.
 
-## How It Looks 🎥
+ ## Try me !
+https://amaank03.github.io/To-Do-App/
 
-![To-Do App Screenshot](file-7A2691AbNmil5m22WFPFufgV)
+## How It Looks 🎥
+![image](https://github.com/user-attachments/assets/4f468bd8-31fa-4fce-94ae-fc240b5aebc5)
+
